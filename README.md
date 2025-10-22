@@ -42,7 +42,7 @@ Welcome to **fee-free finance.**
 - **`PerpEngine`** — Core perpetual futures logic (margin, funding, liquidation).  
 - **`AirdropManager`** — Handles weekly airdrops & fee credit tracking.  
 - **`FeeReimburser`** — Pays gas & fee reimbursements using $TROPIC.  
-- **`TropicToken`** — ERC-20 token powering all ecosystem rewards & coverage.  
+- **`TropicToken`** — Solana SPL token powering all ecosystem rewards & coverage.  
 - **`Oracle`** — Secure price feed via Chainlink or TWAP.  
 
 ### **Off-Chain Components**
