@@ -85,7 +85,7 @@ function markTrade(address user) external onlyRelayer {
 | Feature | Description |
 |----------|--------------|
 | **Symbol** | `$TROPIC` |
-| **Type** | ERC-20 Utility |
+| **Type** | SPL Token Utility |
 | **Use Case** | Pays trading fees, fuels relayer reimbursements, powers governance |
 | **Distribution** | Weekly airdrops to eligible wallets |
 | **Max Supply** | Fixed or dynamically governed |
