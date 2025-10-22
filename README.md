@@ -97,10 +97,10 @@ function markTrade(address user) external onlyRelayer {
 
 | Phase | Milestone | Status |
 |--------|------------|--------|
-| **M0** | Research, tokenomics, and architecture spec | ✅ In progress |
-| **M1** | Core smart contracts (TropicToken, AirdropManager, PerpEngine) | 🔧 Building |
-| **M2** | Relayer + backend infra | ⏳ Pending |
-| **M3** | Frontend MVP + testnet launch | ⏳ Pending |
+| **M0** | Research, tokenomics, and architecture spec | ✅ |
+| **M1** | Core smart contracts (TropicToken, AirdropManager, PerpEngine) | ✅ |
+| **M2** | Relayer + backend infra | ✅ |
+| **M3** | Frontend MVP + testnet launch | 🔧 In progress |
 | **M4** | Security audits + bug bounty | ⏳ Planned |
 | **M5** | Mainnet launch + $TROPIC airdrop event | 🚀 Coming soon |
 
