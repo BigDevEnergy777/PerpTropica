@@ -1,4 +1,4 @@
-# 🌴 PerpTropica — The World’s First Fee-Free Perp DEX 🌴
+# 🌴 PerpTropica — The World’s First Fee-Free Perp DEX 🌴 
 
 > **Trade freely. Live tropically.**
 >
