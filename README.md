@@ -206,10 +206,10 @@ Always trade responsibly and verify addresses before sending funds.
 
 ## 🌴 Join the Tropics
 
-💬 **Twitter:** [@PerpTropica](https://twitter.com/)  
-🌐 **Website:** [https://perptropica.io](https://perptropica.io) *(coming soon)*  
+💬 **Twitter:** [@PerpTropica](https://x.com/perptropica?s=21)  
+🌐 **Website:** [http://bit.ly/PerpTropica-io_Demo]  
 🪂 **Token:** `$TROPIC`  
-🧠 **Docs:** Coming soon on [docs.perptropica.io](https://docs.perptropica.io)
+🧠 **Docs:** Coming soon 
 
 > _“Trade freely, live tropically.”_  
 > — The PerpTropica Team
