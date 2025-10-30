@@ -3,7 +3,7 @@
 > **Trade freely. Live tropically.**
 >
 > PerpTropica is the **first-ever decentralized exchange for meme coins and perpetual futures with *zero fees.***  
-> All trading costs are fully covered by our native token, **$TROPIC**, which is airdropped weekly into user wallets — giving every trader up to **15 free trades** per week.
+> All trading costs are fully covered by our native token, **$TROPIC**, which is airdropped weekly into user wallets — giving every trader up to **15 free trades** per week. OFFICIAL CA: 21iyQCFtVoGS7hFXyCuQb8U8WVTxfii181GHEP1Hpump
 
 ---
 
